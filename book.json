@@ -1,0 +1,18 @@
+{
+  "title": "Skillnote 사용자 가이드",
+  "description": "AI 기반 학습 관리 및 간격 반복 복습 플랫폼 Skillnote 사용 가이드",
+  "language": "ko",
+  "gitbook": ">= 3.2.0",
+  "plugins": ["search", "sharing", "fontsettings", "theme-default"],
+  "pluginsConfig": {
+    "sharing": {
+      "facebook": false,
+      "twitter": true,
+      "google": false,
+      "all": ["twitter"]
+    },
+    "theme-default": {
+      "showLevel": true
+    }
+  }
+}
