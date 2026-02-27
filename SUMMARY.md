@@ -15,7 +15,6 @@
   * [에디터 기능 가이드](writing/editor-features.md)
   * [PDF 업로드](writing/pdf-upload.md)
   * [게시물 관리](writing/manage-posts.md)
-  * [시리즈 관리](writing/series.md)
 
 ## 복습 시스템
 
